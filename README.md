@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
-- 🤠 Visit my portfolio ->     <a href="https://mryunt-2.vercel.app" target="_blank" rel="noreferrer"> 
+- 🤠 <a href="https://mryunt-2.vercel.app" target="_blank" rel="noreferrer"> 
 <- Visit my portfolio ->
     </a> 
 
