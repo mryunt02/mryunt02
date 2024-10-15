@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
-- 👨‍💻 All of my projects are available at [mryunt-2.vercel.app/](mryunt-2.vercel.app/)
+- 🤠 Visit my portfolio ->     <a href="https://mryunt-2.vercel.app" target="_blank" rel="noreferrer"> 
+<- Visit my portfolio ->
+    </a> 
 
 - 💬 Ask me about **JavaScript, React, and Redux**
 
