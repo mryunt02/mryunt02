@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buğrahan</h1>
-<h3 align="center">Software engineer focused on developing and maintaining scalable and reliable front-end systems.</h3>
+<h3 align="center">Software engineer focused on developing and maintaining scalable and reliable front-end/UI systems.</h3>
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
