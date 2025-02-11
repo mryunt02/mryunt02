@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Buğrahan</h1>
 <h3 align="center">Software engineer focused on developing and maintaining scalable and reliable front-end/UI systems.</h3>
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning **Golang**
 
 - 🤠 <a href="https://mryunt-2.vercel.app" target="_blank" rel="noreferrer"> 
 <- Visit my portfolio ->
@@ -60,6 +60,9 @@
     </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+    </a> 
+    <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="postgresql" width="40" height="40"/> 
     </a> 
 </p>
 
