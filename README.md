@@ -7,7 +7,7 @@
 <- Visit my portfolio ->
     </a> 
 
-- 💬 Ask me about **JavaScript, React, and Redux**
+- 💬 Ask me about **JavaScript, React, Redux, CSS and Accessibility**
 
 - 📫 How to reach me **yuntbugrahan@gmail.com**
 
