@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 🤠 <a href="https://mryunt-2.vercel.app" target="_blank" rel="noreferrer"> 
+- 🤠 <a href="https://mryunt-web.vercel.app/" target="_blank" rel="noreferrer"> 
 <- Visit my portfolio ->
     </a> 
 
